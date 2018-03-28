@@ -1,0 +1,9 @@
+In this assignment I have implemented Scanline polygon filling algorithm.
+The chalanging and hard thing for me is how to adjust the value of x and sum in bucket.
+My folder contains Rasterizer.java,fillTest.java and edge.java.
+
+Important note:
+
+You can run both files RASTERIZER.java and FILLTEST.java to see output.
+
+I have inpmlemented rectangle, right tringle,isoscale tringle, star, pentagon,concave-one side,concave more than one side and sample of bird.
